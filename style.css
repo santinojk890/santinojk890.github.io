@@ -11,8 +11,6 @@
     width: 200px;
     cursor: move;
     z-index: 10;
-    background-color: #2196F3;
-    color: #fff;
   }
 
   #movableimage{
